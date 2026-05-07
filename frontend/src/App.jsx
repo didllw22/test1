@@ -57,7 +57,7 @@ export default function App() {
                   일상의 중요한 일을 스타일리시하게 관리하세요.
                 </h1>
                 <p className="max-w-2xl text-slate-300 sm:text-lg">
-                  토스, 미래에셋, Apple 감성의 유려한 인터페이스로 체크리스트를 경험해 보세요.
+                  유려한 인터페이스로 체크리스트를 경험해 보세요.
                 </p>
               </div>
               <div className="rounded-3xl bg-slate-950/70 p-5 text-right shadow-xl shadow-slate-950/20 ring-1 ring-white/10">
